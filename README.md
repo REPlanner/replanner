@@ -6,7 +6,7 @@ Instructions for leveraging the project:<br />
 
 3. func file contains the necessary functions for the Q-learning and Economic Q-learning files. <br />
 
-4. 
+4. AirSim_file_gen generates the usable files for AirSim simulator by using the output files. <br />
 
 Recorded Video of our case study:<br />
 
