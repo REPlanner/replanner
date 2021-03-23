@@ -9,9 +9,7 @@ Instructions for leveraging the project:<br />
 4. AirSim_file_gen generates the usable files for AirSim simulator by using the output files. <br />
 
 Recorded Video of our case study:<br />
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://user-images.githubusercontent.com/81008391/112093684-48dd6900-8b70-11eb-945d-e2981f636fd6.mp4)
-
-https://user-images.githubusercontent.com/81008391/112093684-48dd6900-8b70-11eb-945d-e2981f636fd6.mp4
+[![Watch the video](https://user-images.githubusercontent.com/81008391/112096503-c99e6400-8b74-11eb-9d2e-ac3aa664e112.PNG)](https://user-images.githubusercontent.com/81008391/112093684-48dd6900-8b70-11eb-945d-e2981f636fd6.mp4)
 
 
 💬 Ask me about: How to work with the simulation files and REPlanner implementation. <br />
