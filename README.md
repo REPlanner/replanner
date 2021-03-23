@@ -2,6 +2,12 @@ Instructions for leveraging the project:<br />
 
 1. Q-learning file contains the implementation for standard Q-learning algorithm. <br />
 
+2. Economic Q-learning file contains the implementation for our proposed economic Q-learning algorithm. <br />
+
+3. func file contains the necessary functions for the Q-learning and Economic Q-learning files. <br />
+
+4. 
+
 Recorded Video of our case study:<br />
 
 https://user-images.githubusercontent.com/81008391/112093684-48dd6900-8b70-11eb-945d-e2981f636fd6.mp4
